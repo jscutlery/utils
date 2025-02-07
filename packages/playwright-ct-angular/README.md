@@ -48,7 +48,7 @@ https://user-images.githubusercontent.com/2674658/206226065-ba856329-dda7-43b1-9
 
 First, you will have to set up Playwright Component Testing as [mentioned below](#setup).
 
-⚠️ Make sure to check the [known limitations](#-known-limitations) before writing more tests.
+⚠️ Make sure to check the [known limitations](#%EF%B8%8F-known-limitations) before writing more tests.
 
 ## ✅ Basic Test
 
