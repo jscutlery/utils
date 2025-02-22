@@ -66,7 +66,7 @@
     "@jscutlery/playwright-ct-angular": "link:dist/packages/playwright-ct-angular",
     "@jscutlery/swc-angular": "link:dist/packages/swc-angular",
     "@jscutlery/swc-angular-plugin": "link:dist/packages/swc-angular-plugin",
-    "@monodon/rust": "2.1.1",
+    "@monodon/rust": "2.2.0",
     "@nx/angular": "20.3.1",
     "@nx/cypress": "20.3.1",
     "@nx/devkit": "20.3.1",
